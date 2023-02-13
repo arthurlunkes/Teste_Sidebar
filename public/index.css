@@ -1,0 +1,25 @@
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 200px;
+  background-color: blue;
+  background-image: linear-gradient(
+    180deg,
+    #b638ca 0%,
+    #1c0f37 99.99%,
+    #7638ca 100%
+  );
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+hr {
+  width: 100%;
+  background-color: white;
+  border-color: white;
+}
